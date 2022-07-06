@@ -48,22 +48,21 @@ body{
     font-size: 30px;
     display: flex;
     margin-top: 65px;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 13%;
+    margin-right: 20%;
    
 }
 .same{
     box-shadow: 5px 5px 10px rgb(218, 211, 211);
     border: 2px;
     border-radius: 7%;
-    width: 10%;
+    width: 15%;
     margin-left: 5%;
     margin-right: 5%;
     margin-top: 0px;
     padding: 2%;
-    
-
 }
+
 .same-2{
     border: 2px solid rgb(216, 42, 42);
     background-color: rgb(244, 187, 187) ;
@@ -76,10 +75,10 @@ body{
     color: lightslategray;
 }
 .hr-1{
-    border: 2px sol black;
+    border: 1px sol black;
     margin-bottom: 20px;
     width: 70%;
-    margin-left: 15%;
+    margin-left: 16%;
     margin-right: 25%;
     margin-top: 15px;
 }
