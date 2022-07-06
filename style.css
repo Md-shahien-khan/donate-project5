@@ -40,6 +40,11 @@ body{
     background-color: palevioletred;
 }
 /*---section2------*/
+
+
+
+
+
 .section2{
     margin-top: 110px;
 
@@ -53,7 +58,7 @@ body{
    
 }
 .same{
-    box-shadow: 5px 5px 10px rgb(218, 211, 211);
+    box-shadow: 5px 5px 10px rgb(235, 231, 231);
     border: 2px;
     border-radius: 7%;
     width: 15%;
@@ -69,13 +74,21 @@ body{
 }
 
 .simple{
-    text-align: center;
-    margin-top: 60px;
-    font-size: 19px;
-    color: lightslategray;
+    margin-top: 90px;
+    margin-bottom: 30px;
+    text-align: center;    
+    color: rgb(194, 196, 198);
+    
+}
+input{
+    border : none;
+    font-size: 22px;
+    margin-left: 70px;
+
 }
 .hr-1{
-    border: 1px sol black;
+    
+    background-color: rgb(160, 158, 158);
     margin-bottom: 20px;
     width: 70%;
     margin-left: 16%;
@@ -118,9 +131,6 @@ body{
 .sec3div{
     display: flex;
     
-
-    
-
 }
 .individual{
     width: 30%;
@@ -146,6 +156,22 @@ body{
     background-color: rgb(242, 220, 240);
     border-radius: 2px;
 }
+/*---extra added section-----*/
+.extra-div-parent{
+   display: flex;
+   margin-left: 160px;
+}
+.extra-div{
+    width: 50% ;
+}
+.shawon{
+    background-color: antiquewhite;
+    height: 450px;
+    width: 50%;
+    margin-left: 380px;
+    padding: 5%;
+    margin-top: 50px;
+}
 
 /*----last section-------*/
 .last-sec{
@@ -153,12 +179,11 @@ body{
 
 }
 .flexi{
-    text-align: center;
+    
     width: 500px;
     border: 1px solid wheat;
     padding: 50px;
     margin: 20px;
-    display: flex;
     background-color: wheat;
     margin-left: 520px;
 
@@ -189,6 +214,7 @@ button{
     font-size: 38px;
     color: red;
     text-align: center;
+    font-family:'Times New Roman', Times, serif;
 }
 .my-foot-div p{
     color: white;
